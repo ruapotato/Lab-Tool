@@ -3,7 +3,7 @@ USB tools for the Pinephone
 Based on: https://bitbucket.org/hackersgame/iso_tools
 
 # Use
-`sudo ./lab_tool.py`
+`sudo ./main.py`
 ```
 lab> iso <tab>
 [shows available .iso files]
